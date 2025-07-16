@@ -53,7 +53,7 @@ The creation of the interactive dashboard involved the following steps:
 Here is a breakdown of the key pages in our interactive dashboard:
 
 ### Landing Page
-![Landing Page](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png))
+![Landing Page](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/1.%20Landing_Page.png)
 This is the main entry point of the dashboard. It provides a brief introduction to the project and features navigation buttons that allow users to jump to specific analysis pages:
 *   Overview Analysis
 *   State Demographics
