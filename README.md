@@ -38,6 +38,9 @@ The analysis is based on four key CSV files:
 *   **`states.csv`**: A reference file linking State IDs to State names.
     *   `State ID`, `State`: Unique identifier and name for each state.
 
+*   **`statewise_results.csv`**: A reference file linking State IDs to State and reference to constituencywise_results table.
+    *   `State ID`, `Parliament Constituency`: Unique identifier and name for each state.
+
 ## Methodology
 
 The creation of the interactive dashboard involved the following steps:
