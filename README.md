@@ -61,7 +61,7 @@ This is the main entry point of the dashboard. It provides a brief introduction 
 *   State Analysis
 
 ### Overview Analysis
-![Overview Analysis](https://i.imgur.com/v8tT9oO.png)
+![Overview Analysis](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/3.%20Overview_Analysis.png)
 This page offers a high-level summary of the election results, breaking down the performance of the major political alliances:
 *   **NDA (National Democratic Alliance)**: Total seats won and percentage share.
 *   **I.N.D.I.A (Indian National Developmental Inclusive Alliance)**: Total seats won and percentage share.
