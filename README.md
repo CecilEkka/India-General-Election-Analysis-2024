@@ -95,4 +95,4 @@ The EER diagram illustrates the relationships between the tables in our database
 
 ## SQL Analysis
 
-The attached PDF file, **"INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024.pdf"**, contains a detailed analysis performed using SQL. The queries cover a range of questions, from basic seat counts to more complex analyses of candidate performance and vote distribution. This SQL-based analysis forms the backbone of the data presented in the dashboard.
+The attached PDF file, **"INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024"**, contains a detailed analysis performed using SQL. The queries cover a range of questions, from basic seat counts to more complex analyses of candidate performance and vote distribution. This SQL-based analysis forms the backbone of the data presented in the dashboard.
