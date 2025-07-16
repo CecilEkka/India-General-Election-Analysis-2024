@@ -68,7 +68,7 @@ This page offers a high-level summary of the election results, breaking down the
 *   **Others**: Seats won by parties not belonging to the two major alliances.
 
 ### State Demographics Analysis
-![State Demographics Analysis][(https://i.imgur.com/4zYgO2G.png)](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/7.State_Demographics_Analysis.png)
+![State Demographics Analysis](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/7.State_Demographics_Analysis.png)
 This dashboard provides a visual representation of the election results across India using three distinct maps:
 *   **Left Map**: A state-wise analysis showing overall performance.
 *   **Middle Map**: A constituency-wise analysis, offering a more detailed view.
