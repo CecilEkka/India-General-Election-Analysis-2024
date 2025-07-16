@@ -79,7 +79,7 @@ This dashboard provides a visual representation of the election results across I
 This page allows for a deep dive into the election results on a state-by-state basis. Users can select a state to view detailed party-wise performance and seat distribution within that state.
 
 ### Constituency Analysis
-![Constituency Analysis](https://i.imgur.com/p5p6l0T.png)
+![Constituency Analysis](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/12.Constituency_Analysis.png)
 This page offers a micro-level analysis of individual constituencies. Users can select a constituency to view:
 *   Total votes, EVM votes, and postal votes.
 *   Detailed information about the winning candidate, runner-up, and second runner-up, including their party affiliation and vote share.
