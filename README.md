@@ -85,7 +85,7 @@ This page offers a micro-level analysis of individual constituencies. Users can 
 *   Detailed information about the winning candidate, runner-up, and second runner-up, including their party affiliation and vote share.
 
 ## Enhanced Entity-Relation (EER) Diagram
-![EER Diagram](https://i.imgur.com/8QO9y8B.png)
+![EER Diagram](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/EER_Diagram.png)
 
 The EER diagram illustrates the relationships between the tables in our database:
 
