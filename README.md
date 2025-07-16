@@ -75,7 +75,7 @@ This dashboard provides a visual representation of the election results across I
 *   **Right Map**: A map indicating which major alliance secured the majority of seats in each state.
 
 ### State Analysis
-![State Analysis](https://i.imgur.com/dK3fR1O.png)
+![State Analysis](https://github.com/CecilEkka/India-General-Election-Analysis-2024/blob/main/Dashboard_Images/11.Political_Landscape_by_state.png)
 This page allows for a deep dive into the election results on a state-by-state basis. Users can select a state to view detailed party-wise performance and seat distribution within that state.
 
 ### Constituency Analysis
